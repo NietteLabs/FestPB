@@ -1,3 +1,7 @@
+# Observações sobre o arquivamento
+
+Esse é um projeto que deu origem ao [NietteTTS](https://github.com/NietteLabs/NietteTTS), sendo o primeiro projeto do [Pallas13](https://github.com/Pallas13) (conta antiga "Pallas1303" teve seu acesso pedido) que era focando em tecnologias de fala e deu origem a sua jornada em processamento de fala. A arquivação se da devido que o projeto é antigo, e o [NietteTTS](https://github.com/NietteLabs/NietteTTS) é sua continuação com mais informações e mais desenvolvindo em diversas etapas. Obrigado por ler até aqui.
+
 FestPB é um projeto com objetivo de oferecer suporte ao Português Brasileiro ao software Text-to-Speech Festival Speech Synthesis. Com opções de baixar vozes.
 
 **Conteúdo da página:**
